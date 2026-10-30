@@ -1,0 +1,80 @@
+	Week 0 ->
+				El objetivo del programa es "Como pensar, como tomar entradas y producir salidas correctas. Como dominar
+				la IA y otras herramientas". Así lograremos familiarizarnos con lenguajes nuevos, tomar herramientas	
+				y saber como funcionan. 
+				
+				Vamos a utilizar VSCode. 
+				
+				Vamos a utilizar herramientas de CS50 como IA de CS50. 
+				Así optimizaremos nuestro aprendizaje. 
+				
+				
+				Veamos desde los ceros a como hablar con IA. 
+				
+				***Base 1***
+				
+				¿Como la presentas?,¿Como la procesas?. 
+				CS50 es la ciencia de computacion aplicandolo a 
+				problemas de la vida real. 
+				
+				El alfabeto completo de las computadoras son 0-1. 
+				la notacion unary, con las capacidades que tienes
+				puedes contar; ejemplo"Tengo una mano con 5 dedos,
+				puedo contar hasta. Pero si tengo mi otra mano puedo
+				contar hasta 10".
+				
+				***Base 2***
+				
+				En vez de mirar cuantos dedos tienes, mirar las posiciones
+				y posibles significados, así tu mano cerrada seria 0,
+				tu mano con el indice arriba seria 1,etc... 
+				Pdrias mirar las diferentes formas y generar un patron,
+				con eso no serian 6 patrones si no 32. 
+				
+				bit - un solo digito binario. Osea un 0 o 1.
+				byte - numeros de bits -> 8bits
+				
+				
+				
+				¿Como puede almacenar una computadora una letra A, cuando
+				su lenguaje se trata de bit o byte?
+				
+				¿Como una computador puede representar A?
+				
+				Solo tenemos 0 y 1 de solucion para estos problemas. 
+				Necesitamos darle la identidad a la letra A, 
+				para así saber cuantos 0 y 1 se utilizan al representar A
+				
+				
+				ASCII - Codigo estandar Americano para intercambiar informacion
+				
+				ASCII no es el unico sistema que el mundo utiliza pero 
+				si uno de los primeros. 
+				
+				Haciendo enfasis. 
+				
+				Cada cosa que la computador interpreta es en sistemas UNICODE. 1 y 0 
+				que estos se basan en bits y bytes, claro que se pueden ir creciendo y pueden ocupar mas
+				pero con emojis, rgb, etc... Se utilizan UNICODE para que la maquina interprete. 
+				
+				¿Como resolvemos el tema de la entrada y salida de todooos los terminos captados en el mundo?
+				La respuesta esta en el algoritmo, instrucciones paso a paso para llegar a la respuesta. 
+				
+				CS50 Es para expresar de diferentes maneras resolver probelams no solo en diferentes lenguajes
+				sino en diferentes metodologias. 
+				
+				Lo que trata la ciencia de los algoritmos, computacion y diseño es averiguar la logica,
+				por la cual puedes resolver problemas no solo correctamente si no tambien eficientemente. 
+				
+				pseudocodigo-> Es una formulacion de instrucciones paso a paso similar al inglés o al lenguaje
+				humano, usando solo un inglés conciso y correcto o cualquier lenguaje humano. 
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				

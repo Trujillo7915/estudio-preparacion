@@ -1,0 +1,46 @@
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
+*~
+
+# IDEs
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+*.sublime-project
+*.sublime-workspace
+
+# Build & Runtime Artifacts
+*.class
+*.exe
+*.o
+*.out
+target/
+build/
+bin/
+dist/
+out/
+
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key

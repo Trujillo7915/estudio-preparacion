@@ -1,0 +1,27 @@
+Fundamentos de programacion con JS y HTML5
+
+Bienvenida: 
+	Nos va a enseñar los fundamentos necesarios para
+	poder seguir aprendiendo diferentes modelos de 
+	lenguaje y sobre todo las cosas basicas para 
+	JS y HTML5. 
+	
+	Consejos: 
+		1. Hacer un poco cada dia, no intentar resolverlo todo de una vez
+		2. NO RENDIRME
+		3. Nos daran un proceso de 7pasos que nos dan un metodo de solucion
+		   Antes de iniciar con la solucion mirar la documentacion previa
+		4. Leer la documentacion cuantas veces sea posible
+		5. Aprovechar los videos de code y hacer live coding para así
+		   aprender aún más.
+		   
+		6. Utilizar los cuestionarios de prueba antes de usar los de 
+		   certificacion. 
+	
+
+Crear una Página web con HTML:
+	
+	
+
+	
+	
